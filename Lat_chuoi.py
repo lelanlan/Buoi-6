@@ -12,6 +12,6 @@ for i in s:
     else:
         i=i.upper()
 
-    s1 = s1 + i + " "
+    s1 = s1 + i
 
 print(s1)
